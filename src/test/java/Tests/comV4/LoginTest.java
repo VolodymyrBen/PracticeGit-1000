@@ -167,5 +167,12 @@ public class LoginTest extends TestBase {
         softAssert.assertAll();
     }
 
-
+ @Test
+    public void test99(){
+     System.out.println("I'm the best SDET in the that fu#ing world!!!");
+ }
+ @Test
+    public void test100(){
+     System.out.println("Be quiet, I told you");
+    }
 }
